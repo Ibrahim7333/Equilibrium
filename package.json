@@ -1,0 +1,24 @@
+{
+  "name": "equilibrium",
+  "version": "1.0.0",
+  "description": "Equilibrium is a full-featured accounting ledger engine implementing double-entry bookkeeping principles, built with Node.js and PostgreSQL for web and desktop integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibrahim7333/Equilibrium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibrahim7333/Equilibrium/issues"
+  },
+  "homepage": "https://github.com/Ibrahim7333/Equilibrium#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.15.6"
+  }
+}
