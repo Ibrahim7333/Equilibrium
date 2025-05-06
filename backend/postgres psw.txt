@@ -1,0 +1,5 @@
+postgresql credentials:
+password: abc123
+
+Equilibrium_User
+psw: abc1234
